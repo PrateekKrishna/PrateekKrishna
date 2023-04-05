@@ -63,6 +63,6 @@
 </p>
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
-[![](https://visitcount.itsvg.in/api?id=rajaryan18&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=PrateekKrishna&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ------
